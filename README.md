@@ -24,4 +24,7 @@ To build an interactive dashboard that will visually showcase well-curated resul
 
 Source open data, conduct exploratory analyses and develop hypotheses, conduct supervised and unsupervised machine learning techniques, perform a time series analysis, and create storyboard with interactive dashboards in tableau
 
+## Tableau Storyboard
+
+[Link to Tableau Storyboard](https://public.tableau.com/views/rc_final_project/rc_final_project?:language=en-US&:display_count=n&:origin=viz_share_link)
 
