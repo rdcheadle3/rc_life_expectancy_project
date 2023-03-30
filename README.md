@@ -11,6 +11,14 @@ The results of your analyses will be presented in a Tableau dashboard/storyboard
 To build an interactive dashboard that will visually showcase well-curated results of an advanced exploratory analysis conducted in Python.
 
 ## Data
+[Life Expectancy at Birth, Total (Years)](https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators)
+
+[CO₂ and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
+
+[COEFFICIENT OF VARIATION (CV) OF CALORIC INTAKE](https://www.fao.org/faostat/en/#data/FS)
+
+[CURRENT HEALTH EXPENDITURE (CHE) AS PERCENTAGE OF GROSS DOMESTIC PRODUCT (GDP) (%)](https://ourworldindata.org/grapher/total-healthcare-expenditure-gdp)
+
 
 ## Process
 
